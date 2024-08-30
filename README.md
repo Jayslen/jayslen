@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Jayslen</h1>
 <h3">A passionate frontend developer from Dominican Republic, i am studying software developer at ITLA and by myself too.</h3>
 
-- 🌱 I’m currently learning **Nodejs and typescript**
+- 🌱 I’m currently learning **SQL**
 
 - 📫 How to reach me **jayslen134@gmail.com**
 

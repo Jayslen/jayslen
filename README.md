@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏽‍💻Hi, I'm Jayslen Rojas Serrano, a passionate web developer from the Dominican Republic,<br>currently studying Software Development at the Instituto Tecnológico de las Américas (ITLA).<br><br>💾I'm currently diving deeper into SQL and advanced query techniques, while also <br>refining my frontend development skills.
+👨🏽‍💻Hi, I'm Jayslen Rojas Serrano, a passionate web developer from the Dominican Republic,<br>currently studying Software Development at the Instituto Tecnológico de las Américas (ITLA).<br><br>💾I'm currently diving deeper into SQL and python, while also <br>refining my frontend development skills.
 
 
 ## 🌐 Socials:

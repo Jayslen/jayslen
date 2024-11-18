@@ -34,7 +34,3 @@ src="https://img.shields.io/github/followers/Jayslen?logo=github&style=for-the-b
 <a href="http://www.github.com/Jayslen"><img src="https://github-readme-stats.vercel.app/api?username=Jayslen&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Jayslen's GitHub stats" /></a>
 
 <a href="https://github.com/Jayslen" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayslen&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Jayslen/Latinoled" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jayslen&repo=Latinoled&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Jayslen/exams-generator" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jayslen&repo=exams-generator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />

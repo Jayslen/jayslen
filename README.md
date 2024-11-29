@@ -7,7 +7,7 @@ Frontend Developer
 I'm 20 years old and I live in the Dominican Republic. I currently do not have work experience, but I have developed solid knowledge in web development, including HTML, CSS, JavaScript, and various modern frameworks, in a self-taught way, and creating personal projects. I am also studying the career of Software Development at the Instituto Tecnológico de las Américas (ITLA), where I am training with an integral in the latest trends and technologies in the sector.
 
 * 🌍  I'm based in Dominican Republic
-* 🖥️  See my portfolio at [My porfolio](http://https://porfolio-eight-phi.vercel.app/en)
+* 🖥️  See my portfolio at [My porfolio](https://porfolio-eight-phi.vercel.app/)
 * ✉️  You can contact me at [jayslen134@gmail.com](mailto:jayslen134@gmail.com)
 * 🧠  I'm learning Python and Postgress
 * 🤝  I'm open to collaborating on Web projects

@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I'm 20 years old and I live in the Dominican Republic. I currently do not have work experience, but I have developed solid knowledge in web development, including HTML, CSS, JavaScript, and various modern frameworks, in a self-taught way, and creating personal projects. I am also studying the career of Software Development at the Instituto Tecnológico de las Américas (ITLA), where I am training with an integral in the latest trends and technologies in the sector.
+I'm 21 years old and I live in the Dominican Republic. I currently do not have work experience, but I have developed solid knowledge in web development, including HTML, CSS, JavaScript, and various modern frameworks, in a self-taught way, and creating personal projects. I am also studying the career of Software Development at the Instituto Tecnológico de las Américas (ITLA), where I am training with an integral in the latest trends and technologies in the sector.
 
 * 🌍  I'm based in Dominican Republic
 * 🖥️  See my portfolio at [My porfolio](https://porfolio-eight-phi.vercel.app/)
 * ✉️  You can contact me at [jayslen134@gmail.com](mailto:jayslen134@gmail.com)
-* 🧠  I'm learning Python and Postgress
+* 🧠  I'm learning Rust
 * 🤝  I'm open to collaborating on Web projects
 
 <a href="https://www.github.com/Jayslen" target="_blank" rel="noreferrer"><img
